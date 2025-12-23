@@ -1,0 +1,3 @@
+0 boss
+1 maneger
+2 non-people
